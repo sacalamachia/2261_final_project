@@ -1,0 +1,29 @@
+.main {
+    text-align: center;
+    background-image: linear-gradient(45deg,#ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: grey;
+    color: white
+}
+
+.nav-links {
+    display:flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.titleInformation {
+    color: red;
+}
+
+.Documentation {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
